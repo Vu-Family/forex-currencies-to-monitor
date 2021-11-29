@@ -1,0 +1,10 @@
+{
+   "fromCurrency" : "USD",
+   "toCurrencies" : [
+      "AUD",
+      "CAD",
+      "MXN",
+      "EUR",
+      "GBP"
+   ]
+}
