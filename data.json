@@ -23,22 +23,6 @@
         "buy": 1.35169,
         "pivotPoint": 1.36645
       }
-    },
-    {
-      "currency": "EUR",
-      "signals": {
-        "sell": 0.89306,
-        "buy": 0.85611,
-        "pivotPoint": 0.86895
-      }
-    },
-    {
-      "currency": "GBP",
-      "signals": {
-        "sell": 0.75642,
-        "buy": 0.72483,
-        "pivotPoint": 0.73244
-      }
     }
   ]
 }
