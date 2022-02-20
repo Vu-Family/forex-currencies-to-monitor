@@ -9,14 +9,6 @@
   ],
   "trades": [
     {
-      "currency": "MXN",
-      "signals": {
-        "sell": 22.00,
-        "buy": 20.30,
-        "pivotPoint": 20.90
-      }
-    },
-    {
       "currency": "AUD",
       "signals": {
         "sell": 1.44927,
