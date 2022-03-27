@@ -13,7 +13,9 @@
       "signals": {
         "sell": 1.44927,
         "buy": 1.35169,
-        "pivotPoint": 1.36645
+        "buyResistance1": 1.34228,
+        "buyResistance2": 1.33333,
+        "buyResistance3": 1.28205
       }
     }
   ]
